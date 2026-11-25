@@ -1,0 +1,6 @@
+{
+  "name": "Alder — Open-Hearth Dining",
+  "description": "Seasonal wood-fired restaurant in Jackson Square, San Francisco. Explore the evening menu, cellar selections, and reserve a table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
